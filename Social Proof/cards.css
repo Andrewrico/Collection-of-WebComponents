@@ -1,0 +1,74 @@
+
+
+.card-rounded {
+  --social-proof-bottom: 120px;
+  --social-proof-left: 10px;
+  --social-proof-width: 300px;
+
+  --social-proof-card-padding: 0;
+  --social-proof-card-border-radius: 100px;
+  --social-proof-card-background:#fafafa;
+  --social-proof-card-box-shadow:  0 3px 6px rgba(0, 0, 0, 0.3);
+  --social-proof-card-transform: translate3d(0, 200%, 0);
+  --social-proof-card-transition: opacity 0.5s, transform 1s;
+
+  --social-proof-avatar-background: #ddd;
+  --social-proof-avatar-border-radius: 50%;
+  --social-proof-avatar-width: 80px;
+  --social-proof-avatar-height: auto;
+  --social-proof-avatar-min-height: 70px;
+  --social-proof-avatar-padding: 2px;
+
+  --social-proof-image-border-radius: 50%;
+  --social-proof-image-width: 80px;
+  --social-proof-image-height: 80px;
+
+  --social-proof-content-padding: 0 8px;
+
+  --social-proof-title-color: gray;
+  --social-proof-title-size: 13px;
+  --social-proof-title-weight: 300;
+
+  --social-proof-subtitle-color: gray;
+  --social-proof-subtitle-size: 13px;
+  --social-proof-subtitle-weight: 300;
+
+  --social-proof-counter-color: gray;
+  --social-proof-counter-size: 12px;
+  --social-proof-counter-weight: 600;
+}
+
+.card-popular {
+  --social-proof-card-border-radius: 16px;
+
+  --social-proof-card-padding: 0;
+  --social-proof-card-border: 3px solid #88abb8;
+  --social-proof-card-background:#fafafa;
+  --social-proof-card-box-shadow:  0 3px 6px rgba(0, 0, 0, 0.3);
+  --social-proof-card-transform: translate3d(0, 200%, 0);
+  --social-proof-card-transition: opacity 0.5s, transform 1s;
+
+
+  --social-proof-avatar-padding: 8px;
+  --social-proof-avatar-background: #88abb8;
+  --social-proof-avatar-border-radius: 0;
+  --social-proof-avatar-width: 80px;
+  --social-proof-avatar-height: auto;
+  --social-proof-avatar-min-height: 70px;
+
+
+  --social-proof-title-color: gray;
+  --social-proof-title-size: 13px;
+  --social-proof-title-weight: 600;
+
+  --social-proof-subtitle-color: gray;
+  --social-proof-subtitle-size: 13px;
+  --social-proof-subtitle-weight: 300;
+
+  --social-proof-counter-color: gray;
+  --social-proof-counter-size: 12px;
+  --social-proof-counter-weight: 600;
+}
+
+
+
